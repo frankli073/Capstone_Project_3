@@ -1,0 +1,8 @@
+,20
+First_Additional,False
+Second_Additional,False
+n_neurons,16
+n_batch_size,8
+dropout,0.1
+Train_Acc,"[1.1022461652755737, 1.0498790740966797]"
+Test_Acc,"[0.13485297560691833, 0.36722332239151]"
